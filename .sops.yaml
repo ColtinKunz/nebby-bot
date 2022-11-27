@@ -1,0 +1,2 @@
+creation_rules:
+  - azure_keyvault: https://nebby-bot-kv.vault.azure.net/keys/SOPS/86ab582dc32849b893a9c813577e9d1c
